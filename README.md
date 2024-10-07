@@ -345,17 +345,3 @@ Utilizar serviços de backup como **Google Drive**, **OneDrive** ou ferramentas 
 ### **7.3 Criptografia de Disco**
 
 A **criptografia de disco** protege dados armazenados em dispositivos, garantindo que mesmo que o hardware seja comprometido, os dados permaneçam inacessíveis sem a chave correta.
-
-## **9. Referências**
-
-- **Livros e Artigos:**
-    - "Segurança da Informação: Princípios e Práticas" de Mark Stamp.
-    - "Cryptography and Network Security" de William Stallings.
-- **Documentação e Recursos Online:**
-    - Documentação da Biblioteca Cryptography para Python
-    - [ClamAV - Site Oficial](https://www.clamav.net/)
-    - OpenSSL - Documentação
-- **Normas e Regulamentações:**
-    - **LGPD (Lei Geral de Proteção de Dados)**
-    - **GDPR (General Data Protection Regulation)**
-    - **Normas ISO/IEC 27001**
